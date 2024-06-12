@@ -31,12 +31,15 @@ github 이메일 : xogur2420@gamil.com
 코드 설명
 1. Summary with Llama2 without fine-tuning.ipynb 
   - 라마2 불러와서 요약 결과 확인
+    
 2. Llama2 fine-tuning with naver-news dataset for summary.ipynb
   - 라마2 파인튜닝 데이터 : daekeun-ml/naver-news-summarization-ko 
   - 모델 : llama-2-7b-it-sum-ko_max_step=500
+    
 3. Llama2 fine-tuning with aihub dataset for summary.ipynb
   - 라마2 파인튜닝 데이터 : aihub 문서요약 텍스트(https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=97)
   - 모델 : llama-2-7b-it-sum-ko_max_step=500_aihub
   - 학습 과정에서 문제가 있는 것으로 보임 - 요약 성능 이상함(추후 업데이트 예정)
+    
 4. Summary service using crawling + finetuned Llama2 model.ipynb
   - 라마2 파인튜닝 모델로 크롤링한 뉴스기사 요약하기
