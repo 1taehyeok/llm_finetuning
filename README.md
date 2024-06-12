@@ -11,14 +11,14 @@ llama2-7b finetuning for summary
 
 ▷ 교 과 목 명 : 인공지능1 
 
-▷ 담당교수님 : 정 철 현
+▷ 담당교수님 : 정 철 현(inbass@hanyang.ac.kr)
 
 ▷ 수 업 년 도 : 2024
 
 **참여 인원**
-▶ 김지희(7092)
-▶ 서호림(5832)
-▶ 한태혁(4139)
+▶ 김지희(7092) wlgml2419@hanyang.ac.kr
+▶ 서호림(5832) rh2103@hanyang.ac.kr
+▶ 한태혁(4139) xogur2420@gmail.com
 
 
 [Contribution guidelines for this project](http://devocean.sk.com/blog/techBoardDetail.do?ID=165703&boardType=techBlog)
