@@ -41,11 +41,11 @@ llama2-7b finetuning for summary
 3. Llama2 fine-tuning with aihub dataset for summary.ipynb
     - 라마2 파인튜닝 데이터 : aihub 문서요약 텍스트 ([AI-Hub 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=97))
     - 모델 : llama-2-7b-it-sum-ko_max_step=500_aihub
-    - 학습 과정에서 문제가 있는 것으로 보임 - 요약 성능 이상함(추후 업데이트 예정)
+    - 학습 과정에서 문제가 있는 것으로 보임 - 요약_성능 이상함(추후 업데이트 예정)
 
 
 4. Summary service using crawling + finetuned Llama2 model.ipynb
-    - 라마2 파인튜닝 모델로 크롤링한 뉴스기사 요약하기
+    - 라마2 파인튜닝 모델로 크롤링한 뉴스기사 요약
 
 
 ※ 해당 프로젝트는 Llama2 7b를 이용한 파인튜닝으로 코드 실행 시 개인의 API Key 등록 필수
